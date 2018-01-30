@@ -1,2 +1,2 @@
 print ("Hello World")
-print ("It's a good time!")
+print ("It's never a good time")
